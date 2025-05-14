@@ -1,4 +1,4 @@
-# ShadowStrike
+# ShadowStrike (Final Project of Game Programming Subject)
 
 🎯 A 3D FPS game built in Unity and a Fast-paced precision shooter game.
 
